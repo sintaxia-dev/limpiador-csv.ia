@@ -1,0 +1,16 @@
+fecha,cliente,producto,region,precio,cantidad
+2026-03-02, Ana Gómez ,Teclado,Norte,"$45,50",2
+02/03/2026,ana gómez,Teclado,Norte,"$45,50",2
+2026-03-05,LUIS PÉREZ,Mouse,Sur,"$12,00",5
+2026-03-05,LUIS PÉREZ,Mouse,Sur,"$12,00",5
+07/03/2026,María Ruiz,Monitor,Norte,"$210,00",1
+2026-03-11,carlos díaz,Auriculares,Centro,,3
+2026-03-14,Sofía Torres ,Teclado,Sur,"$45,50",
+15/03/2026,Pedro Luna,Monitor,Centro,"$210,00",2
+2026-03-20,  María Ruiz,Webcam,Norte,"$38,90",4
+2026-03-22,Lucía Fernández,Mouse,Norte,"$12,00",10
+2026-04-02,Ana Gómez,Monitor,Norte,"$210,00",1
+03/04/2026,luis pérez,Auriculares,Sur,"$29,99",2
+2026-04-08,Martín Silva,Webcam,Centro,"$38,90",
+2026-04-10,Sofía Torres,Mouse,Sur,"$12,00",3
+2026-04-15,Pedro Luna,Teclado,Centro,"$45,50",2

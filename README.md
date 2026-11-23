@@ -35,7 +35,7 @@ Para ejecutar el proyecto necesitas:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/USUARIO/limpiador-csv-ia.git
+   git clone https://github.com/sintaxia-dev/limpiador-csv-ia.git
    ```
 
 2. Ingresa a la carpeta del proyecto:
